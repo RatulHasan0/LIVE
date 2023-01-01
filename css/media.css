@@ -1,0 +1,292 @@
+@media(max-width:768px){
+    .navbar-light .navbar-nav .nav-link {
+        background: #186ebd;
+        margin-bottom: 5px;
+        border-radius: 10px;
+        padding-left: 20px;
+}
+.caliind-baton {
+    background: #1e74c2;
+    margin-top: 20px !important;
+}
+.make{
+    margin-top: 15px;
+}
+.header-conten h1{
+    font-size: 30px;
+}
+.header-conten h2{
+    font-size: 30px;
+}
+.header-conten p{
+    font-size: 14px;
+}
+.header-conten{
+    min-height: 50vh;
+}
+.ILVEC-ALLZ h1{
+    font-size: 30px;
+}
+.ILVEC-ALLZ h2{
+    font-size: 30px;
+}
+.live p {
+    font-size: 14px;
+}
+.ILVEC-ALLZ p{
+    font-size: 14px;
+}
+.live-hedihg h2{
+    font-size: 20px;
+}
+.get h1 {
+    font-size: 30px;
+}
+.contend h2 {
+    font-size: 20px;
+}
+.Started p{
+    font-size: 14px;
+    width: 200px;
+}
+.contend h2{
+    font-size: 20px;
+ 
+}
+.Started-section p{
+    font-size: 14px;
+    width: 200px;
+}
+.batun .btn-butin{
+    margin-top: 10px;
+}
+.text h1{
+    font-size: 30px;
+}
+.price-section{
+    height: 380px;
+}
+.main-section p {
+    width: 220px;
+}
+.main-section h2{
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.Serve h1{
+font-size: 30px;
+}
+.we-serve h3 {
+    font-size: 20px;
+}
+.we-serve p{
+    font-size: 14px;
+}
+.we-serve{
+ 
+}
+.servis-img{
+}
+.Questions h1{
+    font-size: 30px;
+}
+.collapsed p{
+    font-size: 14px;
+}
+.top-futter h1{
+    font-size: 30px;
+}
+.top-futter p {
+  font-size: 14px;
+}
+.btn-high{
+     font-size: 14px;
+}
+.main-fotter ul li {
+    font-size: 14px;
+}
+.fotter-text h6{
+    font-size: 14px;
+}
+.btn-fotter {
+    padding: 8px 20px;
+    font-size: 14px;
+}
+.foter-logo p{
+ font-size: 14px;
+}
+.main-fotter p {
+    font-size: 14px;
+}
+}
+
+
+
+@media(max-width:575px){
+    .navbar-light .navbar-nav .nav-link {
+            background: #186ebd;
+            margin-bottom: 5px;
+            border-radius: 10px;
+            padding-left: 20px;
+    }
+    .caliind-baton {
+        background: #1e74c2;
+        margin-top: 20px !important;
+    }
+    .make{
+        margin-top: 15px;
+    }
+    .navbar-brand img{
+        width: 95px;
+    }
+    .header-conten h1 {
+        font-size: 30px;
+    }
+    .header-conten h2 {
+        font-size: 25px;
+    }
+    .header-conten p {
+        font-size: 15px;
+        margin-top: 10px;
+    }
+    .btn-awro {
+        padding: 10px 15px;
+        margin-top: 20px;
+    }
+    .ILVEC-ALLZ h1 {
+        font-size: 30px;
+        margin: 0;
+    }
+    .ILVEC-ALLZ h2 {
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+    .ILVEC-ALLZ p {
+        font-size: 12px;
+    }
+    .get h1 {
+        font-size: 25px;
+    }
+    .contend h2 {
+        font-size: 18px;
+    }
+    .Started p {
+        font-size: 14px;
+        width: 200px;
+    }
+    .Started-section h2{
+        font-size: 18px;
+    }
+    .Started-section p {
+        font-size: 14px;
+        width: 200px;
+    }
+    .banner-img img {
+        display: none;
+    }
+    .batun .btn-butin {
+        padding: 10px 15px;
+        margin-top: 10px;
+    }
+    .margin img{
+        display: none;
+    }
+    .text h1 {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+    
+.main-section h2 {
+    padding-top: 50px;
+    font-size: 20px;
+}
+.main-section p {
+    line-height: 2;
+    width: 200px;
+    font-size: 14px;
+}
+.servis-img{
+ 
+}
+.price-section {height: 350px;}
+.Serve h1 {
+    font-size: 30px;
+}
+.we-serve {
+    height: 285px;
+    margin-bottom: 20px;
+}
+.we-serve h3 {
+   font-size: 20px;
+}
+.we-serve p {
+    font-size: 14px;
+}
+.accordion-body {
+    padding: 10px;
+}
+.Questions h1 {
+    font-size: 30px;
+}
+.accordion-button {
+    padding: 10px;
+    font-size: 13px;
+}
+.collapsed p {
+    font-size: 13px;
+}
+.accordion-body strong{
+    font-size: 13px;
+}
+.top-futter h1 {
+    width: 100%;
+    font-size: 20px;
+}
+.top-futter p {
+    font-size: 13px;
+}
+.futter img {
+    display: none;
+}
+.main-fotter ul li p {
+    font-size: 13px;
+}
+.foter-logo p {
+    font-size: 13px;
+}
+.fotter-text h6 {
+    font-size: 13px;
+    color: #000;
+}
+.btn-fotter {
+    padding: 10px 10px;
+    font-size: 10px;
+}
+.main-fotter p {
+    font-size: 13px;
+}
+.fptter-p p span {
+    font-size: 12px;
+}
+.btn-high {
+    font-size: 14px;
+    padding: 5px 8px;
+    margin-bottom: 20px;
+}
+.live {
+    height: 300px;
+}
+.ready{
+    text-align: center;
+}
+.header-conten {
+    min-height: 50vh;
+}
+.margin {
+    padding-top: 0;
+}
+.pagih{
+    padding: 0;
+}
+}
+ 
